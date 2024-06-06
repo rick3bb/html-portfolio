@@ -2,3 +2,4 @@
 
 ## Mudanças no repositório
 *comando git pull 
+*comando fetch
